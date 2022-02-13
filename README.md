@@ -3,7 +3,7 @@
 An npm package to get you immediate access to [React](https://facebook.github.io/react/),
 without also requiring the JSX transformer. This is especially useful for cases where you
 want to [`browserify`](https://github.com/substack/node-browserify) your module using
-`React`.
+`React`. Nemoj.
 
 **Note:** by default, React will be in development mode. The development version includes extra warnings about common mistakes, whereas the production version includes extra performance optimizations and strips all error messages.
 
